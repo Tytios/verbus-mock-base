@@ -6,27 +6,57 @@
       "circulationDate" : "2021-02-18"
     },
     {
-      "id": 1,
+      "id": 2,
       "name": "Bus Marron",
       "circulationDate" : "2021-02-24"
     },
     {
-      "id": 1,
+      "id": 3,
       "name": "Bus Bleu",
       "circulationDate" : "2021-02-02"
     },
     {
-      "id": 1,
+      "id": 4,
       "name": "Bus Jaune",
       "circulationDate" : "2021-02-08"
     },
     {
-      "id": 1,
+      "id": 5,
       "name": "Bus Violet",
       "circulationDate" : "2021-12-18"
     },
     {
-      "id": 1,
+      "id": 6,
+      "name": "Bus Rouge",
+      "circulationDate" : "2021-10-18"
+    },
+    {
+      "id": 7,
+      "name": "Bus Indigo",
+      "circulationDate" : "2021-02-18"
+    },
+    {
+      "id": 8,
+      "name": "Bus Marron",
+      "circulationDate" : "2021-02-24"
+    },
+    {
+      "id": 9,
+      "name": "Bus Bleu",
+      "circulationDate" : "2021-02-02"
+    },
+    {
+      "id": 10,
+      "name": "Bus Jaune",
+      "circulationDate" : "2021-02-08"
+    },
+    {
+      "id": 11,
+      "name": "Bus Violet",
+      "circulationDate" : "2021-12-18"
+    },
+    {
+      "id": 12,
       "name": "Bus Rouge",
       "circulationDate" : "2021-10-18"
     }
